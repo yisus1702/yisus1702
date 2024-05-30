@@ -30,10 +30,10 @@
 
 -->
 
-### 👨🏻‍💻 &nbsp;Nací en Valledupar, donde actualmente vivo.
-👨‍💻 &nbsp; soy un apasionado por la tecnología y por hacer el uso de la misma más fácil, para así poder llegar a más personas.
-💡 &nbsp; tengo bases sólidas de programación tanto en front y back
-🎓 &nbsp; he hecho diferentes cursos de desarrollo y aplicaciones web
-🌱 &nbsp; actualmente sigo estudiando desarrollo web.
-✍️ &nbsp; mis pasatiempos son el fútbol y leer.
-✉️ &nbsp; mi medios de comunicación son mediante correo electrónico: jepior99@gmail.com y mediante mi perfil de LinkedIn
+### 👨🏻‍💻 &nbsp;Nací en Valledupar, donde actualmente vivo.<br>
+👨‍💻 &nbsp; soy un apasionado por la tecnología y por hacer el uso de la misma más fácil, para así poder llegar a más personas.<br>
+💡 &nbsp; tengo bases sólidas de programación tanto en front y back<br>
+🎓 &nbsp; he hecho diferentes cursos de desarrollo y aplicaciones web<br>
+🌱 &nbsp; actualmente sigo estudiando desarrollo web.<br>
+✍️ &nbsp; mis pasatiempos son el fútbol y leer.<br>
+✉️ &nbsp; mi medios de comunicación son mediante correo electrónico: jepior99@gmail.com y mediante mi perfil de LinkedIn.<br>

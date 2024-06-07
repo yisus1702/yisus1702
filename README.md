@@ -36,4 +36,4 @@
 🎓 &nbsp; he hecho diferentes cursos de desarrollo y aplicaciones web<br>
 🌱 &nbsp; actualmente sigo estudiando desarrollo web.<br>
 ✍️ &nbsp; mis pasatiempos son el fútbol y leer.<br>
-✉️ &nbsp; mi medios de comunicación son mediante correo electrónico: jepior99@gmail.com y mediante mi perfil de LinkedIn.<br>
+✉️ &nbsp; mi medios de comunicación son mediante correo electrónico: jepior99@gmail.com y mediante mi perfil de LinkedIn: www.linkedin.com/in/jesús-david-pizarro-orozco-b9955b23a<br>
